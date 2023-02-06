@@ -25,7 +25,7 @@
 | Iniciante |[1037](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1037.java)| Java |
 | Iniciante |[1038](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1038.java)| Java |
 | Iniciante |[1040](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1040.java)| Java |
-| Iniciante |[1041](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1041.java)| Java |
+| Iniciante |[1041](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1041.py)| Python |
 | Iniciante |[1042](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1042.java)| Java |
 | Iniciante |[1044](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1044.py)| Python |
 | Iniciante |[1050](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1050.java)| Java |
@@ -33,7 +33,7 @@
 | Iniciante |[1759](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1759.java)| Java |
 | Iniciante |[1930](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1930.java)| Java |
 | Iniciante |[2006](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee2006.java)| Java |
-| Iniciante |[2143](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee2143.java)| Java |
+| Iniciante |[2143](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee2143.py)| Python |
 | Iniciante |[3303](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee3303.java)| Java |
 
 
