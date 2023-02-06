@@ -41,5 +41,23 @@
 | Iniciante |[2143](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee2143.py)| Python |
 | Iniciante |[3303](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee3303.java)| Java |
 
+## Categoria **AD-HOC**
 
+| Categoria | Problema | Linguagem |
+|--- |--- |--- |
+| AD-HOC |[2413](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/AD-HOC/Bee2413.java)| Java |
+| AD-HOC |[2868](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/AD-HOC/2868.java)| Java |
+| AD-HOC |[3422](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/AD-HOC/Bee3422.java)| Java |
+
+## Categoria **Matemática**
+
+| Categoria | Problema | Linguagem |
+|--- |--- |--- |
+| Matemática |[1170](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Matematica/Bee1170.java)| Java |
+
+## Categoria **String**
+
+| Categoria | Problema | Linguagem |
+|--- |--- |--- |
+| String |[1168](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/String/Bee1168.java)| Java |
 
