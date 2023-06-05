@@ -33,18 +33,21 @@
 | Iniciante |[1041](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1041.py)| Python |
 | Iniciante |[1042](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1042.java)| Java |
 | Iniciante |[1044](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1044.py)| Python |
-| Iniciante |[1050](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1050.java)| Java |
+| Iniciante |[1050](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1153.js)| JavaScript |
+| Iniciante |[1153](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1050.java)| Java |
 | Iniciante |[1157](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1157.java)| Java |
 | Iniciante |[1759](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1759.java)| Java |
 | Iniciante |[1930](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee1930.java)| Java |
 | Iniciante |[2006](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee2006.java)| Java |
 | Iniciante |[2143](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee2143.py)| Python |
+| Iniciante |[2344](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee2344.js)| JavaScript |
 | Iniciante |[3303](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/Iniciante/Bee3303.java)| Java |
 
 ## Categoria **AD-HOC**
 
 | Categoria | Problema | Linguagem |
 |--- |--- |--- |
+| AD-HOC |[2374](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/AD-HOC/Bee2374.js)| JavaScript |
 | AD-HOC |[2413](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/AD-HOC/Bee2413.java)| Java |
 | AD-HOC |[2868](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/AD-HOC/2868.java)| Java |
 | AD-HOC |[3422](https://github.com/eduardooarruda/Exercicios-beecrowd-URI/blob/main/AD-HOC/Bee3422.java)| Java |
